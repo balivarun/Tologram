@@ -39,6 +39,11 @@ backend/.gradle/
 backend/out/
 backend/target/
 
+# Large Gradle files
+backend/gradle*.zip
+backend/gradle-*-bin.zip
+backend/gradle-local/
+
 # Logs
 *.log
 logs/
