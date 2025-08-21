@@ -36,6 +36,8 @@ Thumbs.db
 backend/*.jar
 backend/!gradle/wrapper/gradle-wrapper.jar
 backend/.gradle/
+backend/build/
+backend/bin/
 backend/out/
 backend/target/
 
